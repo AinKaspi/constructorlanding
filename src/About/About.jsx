@@ -6,7 +6,7 @@ export default class Hero extends React.Component {
         return(
             <div className="About">
                 <section className="About__content">
-                    <h1>About</h1>
+                    <h1>About Tern Out</h1>
                 </section>
             </div>
         )
